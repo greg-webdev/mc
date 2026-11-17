@@ -1,0 +1,18 @@
+{
+  "IKVM.Java.li66ykxjnb.wasm": {
+    "size": 86215493,
+    "parts": 5
+  },
+  "dotnet.native.b6bvieg7s0.wasm": {
+    "size": 99143266,
+    "parts": 5
+  },
+  "ikvmc_fastutil-8.2.1.p7zu3nq1mw.wasm": {
+    "size": 55049029,
+    "parts": 3
+  },
+  "ikvmc_lwjgl3.cpk6vfx08p.wasm": {
+    "size": 96829765,
+    "parts": 5
+  }
+}
